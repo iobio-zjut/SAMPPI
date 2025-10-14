@@ -35,8 +35,10 @@ Please visit NetSurfP-3.0 online server for RASA generation (https://services.he
 ```
 python ./main/S1131/train/train_S1131.py
 ```
-Run this script to train the S1131 model, the same applies to other datasets
+Run this script to train the S1131 model, the same applies to other datasets.
+
 The weights of the trained model can be downloaded in releases (https://github.com/iobio-zjut/SAMPPI/releases/tag/v1.0)
+
 ## Predict
 ```
 python ./main/S1131/predict/predict_S1131.py
