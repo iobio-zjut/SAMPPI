@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="087fb1cd-8479-4af7-a12a-fd275ab55195" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="21K3etTdaFRlK2LRUlqKyM81Tux" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.DeepUMQA-X [clean].executor": "Run",
+    "Maven.DeepUMQA-X [package].executor": "Run",
+    "Maven.server-DeepUMQA_series [clean].executor": "Run",
+    "Maven.server-DeepUMQA_series [package].executor": "Run",
+    "Maven.server_MultiSAAI [clean].executor": "Run",
+    "Maven.server_MultiSAAI [package].executor": "Run",
+    "Maven.server_MultiSAAI [test].executor": "Run",
+    "Maven.server_SAMPPI [clean].executor": "Run",
+    "Maven.server_SAMPPI [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.JunlApplication.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/project/SAMPPI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "905dcf66c1dc8eec33f37e4326fb0809",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/classes/static/example" />
+      <recent name="I:\科研JUNL\DeepUMQA2\DeepUMQA3\server-junl-DeepUMQA3\src\main\resources\static\js" />
+      <recent name="I:\科研JUNL\DeepUMQA2\DeepUMQA3\server-junl-DeepUMQA3\src\main" />
+      <recent name="C:\Users\Administrator\Desktop\serverDeepUMQA\server-gss\src\main\resources\static\js" />
+      <recent name="F:\VariousProgram\java\server-gss\src\main\resources\static\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JunlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DeepUMQA-X" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junl.server.JunlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-junl-DeepUMQA3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junl.server.JunlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="087fb1cd-8479-4af7-a12a-fd275ab55195" name="Default Changelist" comment="" />
+      <created>1637676049071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637676049071</updated>
+      <workItem from="1637676051597" duration="47558000" />
+      <workItem from="1637942108094" duration="23000" />
+      <workItem from="1638594719821" duration="4762000" />
+      <workItem from="1639567883368" duration="1873000" />
+      <workItem from="1639661892347" duration="635000" />
+      <workItem from="1640607979373" duration="598000" />
+      <workItem from="1640614375278" duration="1896000" />
+      <workItem from="1640862900084" duration="14988000" />
+      <workItem from="1641297652085" duration="355000" />
+      <workItem from="1641445960626" duration="682000" />
+      <workItem from="1641624861062" duration="16000" />
+      <workItem from="1641709108140" duration="1735000" />
+      <workItem from="1641711355829" duration="291000" />
+      <workItem from="1641711661495" duration="2367000" />
+      <workItem from="1641793946591" duration="336000" />
+      <workItem from="1641794589445" duration="1278000" />
+      <workItem from="1641881361406" duration="1024000" />
+      <workItem from="1641903185580" duration="7005000" />
+      <workItem from="1641966525692" duration="342000" />
+      <workItem from="1641966896409" duration="423000" />
+      <workItem from="1641967333038" duration="1390000" />
+      <workItem from="1641968763148" duration="407000" />
+      <workItem from="1645077887631" duration="1807000" />
+      <workItem from="1645252610891" duration="776000" />
+      <workItem from="1646312216114" duration="4866000" />
+      <workItem from="1646391201110" duration="3419000" />
+      <workItem from="1647081572163" duration="43000" />
+      <workItem from="1647859588695" duration="2034000" />
+      <workItem from="1648709151754" duration="11000" />
+      <workItem from="1649412057632" duration="147000" />
+      <workItem from="1649429198378" duration="5946000" />
+      <workItem from="1649686702653" duration="6945000" />
+      <workItem from="1652443435155" duration="683000" />
+      <workItem from="1656944618811" duration="2674000" />
+      <workItem from="1666868671387" duration="3292000" />
+      <workItem from="1667787964490" duration="795000" />
+      <workItem from="1667790986381" duration="21000" />
+      <workItem from="1667791052259" duration="4197000" />
+      <workItem from="1667796992686" duration="1812000" />
+      <workItem from="1667807994640" duration="60849000" />
+      <workItem from="1668995731961" duration="4562000" />
+      <workItem from="1669000360420" duration="5456000" />
+      <workItem from="1669122890676" duration="596000" />
+      <workItem from="1669203161242" duration="1661000" />
+      <workItem from="1669206446990" duration="1188000" />
+      <workItem from="1669703629752" duration="45000" />
+      <workItem from="1670826868870" duration="590000" />
+      <workItem from="1670997881597" duration="3579000" />
+      <workItem from="1673180927514" duration="1644000" />
+      <workItem from="1673252551351" duration="944000" />
+      <workItem from="1673253904775" duration="547000" />
+      <workItem from="1673254476071" duration="72000" />
+      <workItem from="1673254565253" duration="3577000" />
+      <workItem from="1691415019677" duration="17960000" />
+      <workItem from="1692619742142" duration="3039000" />
+      <workItem from="1731067432691" duration="5905000" />
+      <workItem from="1731931157589" duration="2163000" />
+      <workItem from="1731980551164" duration="50057000" />
+      <workItem from="1732694922869" duration="17411000" />
+      <workItem from="1732778395283" duration="603000" />
+      <workItem from="1747144885014" duration="9330000" />
+      <workItem from="1747295281758" duration="11715000" />
+      <workItem from="1747375709256" duration="3740000" />
+      <workItem from="1747384348019" duration="23847000" />
+      <workItem from="1747457349318" duration="16691000" />
+      <workItem from="1747475336916" duration="2232000" />
+      <workItem from="1748330003581" duration="2121000" />
+      <workItem from="1748936086324" duration="80000" />
+      <workItem from="1749190023582" duration="3431000" />
+      <workItem from="1749446078613" duration="2328000" />
+      <workItem from="1749474373103" duration="2648000" />
+      <workItem from="1749521942692" duration="5307000" />
+      <workItem from="1749538392221" duration="3214000" />
+      <workItem from="1749541674267" duration="1616000" />
+      <workItem from="1749543324380" duration="1279000" />
+      <workItem from="1749544644134" duration="3092000" />
+      <workItem from="1749555968897" duration="267000" />
+      <workItem from="1749622223542" duration="300000" />
+      <workItem from="1750341169406" duration="274000" />
+      <workItem from="1760166102448" duration="1419000" />
+      <workItem from="1760167741087" duration="1185000" />
+      <workItem from="1760186790172" duration="2383000" />
+      <workItem from="1760189248162" duration="6758000" />
+      <workItem from="1760322648284" duration="503000" />
+      <workItem from="1760323677097" duration="7267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/resources/static/js/index_before_Auguest_2023.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
