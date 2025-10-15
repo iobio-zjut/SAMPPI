@@ -2,7 +2,7 @@
 ## Install
 ### Create a Conda Environment
 ```
-conda create -n SAMPPI python=3.8
+conda create -n SAMPPI python=3.7
 conda activate SAMPPI
 ```
 ### dependencies
